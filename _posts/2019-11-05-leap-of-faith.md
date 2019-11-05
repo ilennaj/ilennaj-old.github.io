@@ -10,7 +10,8 @@ tags: [gradschool, advice]            # (custom) tags only for meta `property="a
 
 8.5 min read.
 
-![Towards_coding](https://raw.githubusercontent.com/ilennaj/ilennaj.github.io/master/static/img/_posts/Towards_coding.jpg  "Towards coding")
+![Towards_coding](https://raw.githubusercontent.com/ilennaj/ilennaj.github.io/master/static/img/_posts/Towards_coding.jpg)
+
 
 I left behind my days working at the bench for working at the computer and white-board. You’d probably ask me why. The short answer is that I found I liked it better. The long answer, as well as some tl;dr takeaways at the bottom of this are below. Here is the story of my first year in grad school training to get a PhD: my path toward understanding machine learning from scratch and what I considered as I was choosing a lab.
 
