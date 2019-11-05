@@ -4,13 +4,13 @@ title: "A Leap of Faith: Switching to computation from a wet-lab background"    
 date: 2019-11-05 03:00:00 +0700       # (require) a post date
 categories: [advice]                  # (custom) some categories, but makesure these categories already exists inside path of `category/`
 tags: [gradschool, advice]            # (custom) tags only for meta `property="article:tag"`
-image: Towards_coding.jpg             # (custom) image only for meta `property="og:image"`, save your image inside path of `static/img/_posts`
+
 ---
 # A leap of faith: Switching to computation from a wet-lab background
 
 8.5 min read.
 
-<img width="500" src="{{site.baseurl}}/static/img/_posts/Towards_coding.jpg" data-action="zoom">
+<img width="500" src="/static/img/_posts/Towards_coding.jpg" data-action="zoom">
 
 I left behind my days working at the bench for working at the computer and white-board. You’d probably ask me why. The short answer is that I found I liked it better. The long answer, as well as some tl;dr takeaways at the bottom of this are below. Here is the story of my first year in grad school training to get a PhD: my path toward understanding machine learning from scratch and what I considered as I was choosing a lab.
 
