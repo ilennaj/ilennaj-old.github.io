@@ -6,8 +6,6 @@ categories: [advice]                  # (custom) some categories, but makesure t
 tags: [gradschool, advice]            # (custom) tags only for meta `property="article:tag"`
 
 ---
-# A leap of faith: Switching to computation from a wet-lab background
-
 8.5 min read.
 
 ![Towards_coding](https://raw.githubusercontent.com/ilennaj/ilennaj.github.io/master/static/img/_posts/Towards_coding.jpg)
@@ -39,7 +37,8 @@ The class culminated in a final group project. My friends and I came together an
 
 ### Rotation 4: Machine learning in the Kording Lab
 
-<img width="500" src="{{site.baseurl}}/static/img/_posts/subject_zero.jpg" data-action="zoom">
+![subject_zero](https://raw.githubusercontent.com/ilennaj/ilennaj.github.io/master/static/img/_posts/subject_zero.jpg)
+
 
 Caption: Subject Zero, Kording Lab Mascot
 
@@ -49,9 +48,9 @@ So I rotated in the Kording lab. I brought with me my experience and knowledge f
 
 The day to day was amazing. Konrad came around to ask how I was doing every day. I was excited to come into the lab to try new solutions I dreamt up the night before. I eventually became fluent in PyTorch and could read Python code. I found I could explain my project in a few sentences when before it would take me a confusing few minutes. I saw that I was developing my skills rapidly. I was beginning to break tasks down into smaller, achievable pieces. I was starting to think computationally. Even though I was working on something that had no guarantee of working, I still made little victories. I was happy where I was. So I joined the Kording lab and here I am.
 
-<img width="750" src="{{site.baseurl}}/static/img/_posts/kording_canoe.jpg" data-action="zoom">
+![Towards_coding](https://raw.githubusercontent.com/ilennaj/ilennaj.github.io/master/static/img/_posts/kording_canoe.jpg)
 
-Caption: Kording Lab during the 2019 Lab Retreat
+Kording Lab during the 2019 Lab Retreat
 
 <hr>
 
