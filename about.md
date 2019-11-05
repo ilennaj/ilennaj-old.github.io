@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I am a Neuroscience PhD Candidate at the University of Pennsylvania. I work in the Kording Lab, studying single neuron computation.
 
-email: agus[at]python.web.id
+email: ilennaj[at]gmail.com
