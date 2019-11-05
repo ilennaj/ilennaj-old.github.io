@@ -10,7 +10,7 @@ image: Towards_coding.jpg             # (custom) image only for meta `property="
 
 8.5 min read.
 
-<img width="250" src="{{site.baseurl}}/static/img/_posts/Towards_coding.jpg" data-action="zoom">
+<img width="500" src="/static/img/_posts/Towards_coding.jpg" data-action="zoom">
 
 I left behind my days working at the bench for working at the computer and white-board. You’d probably ask me why. The short answer is that I found I liked it better. The long answer, as well as some tl;dr takeaways at the bottom of this are below. Here is the story of my first year in grad school training to get a PhD: my path toward understanding machine learning from scratch and what I considered as I was choosing a lab.
 
@@ -38,7 +38,7 @@ The class culminated in a final group project. My friends and I came together an
 
 ### Rotation 4: Machine learning in the Kording Lab
 
-<img width="250" src="{{site.baseurl}}/static/img/_posts/subject_zero.jpg" data-action="zoom">
+<img width="500" src="/static/img/_posts/subject_zero.jpg" data-action="zoom">
 
 Caption: Subject Zero, Kording Lab Mascot
 
@@ -48,7 +48,7 @@ So I rotated in the Kording lab. I brought with me my experience and knowledge f
 
 The day to day was amazing. Konrad came around to ask how I was doing every day. I was excited to come into the lab to try new solutions I dreamt up the night before. I eventually became fluent in PyTorch and could read Python code. I found I could explain my project in a few sentences when before it would take me a confusing few minutes. I saw that I was developing my skills rapidly. I was beginning to break tasks down into smaller, achievable pieces. I was starting to think computationally. Even though I was working on something that had no guarantee of working, I still made little victories. I was happy where I was. So I joined the Kording lab and here I am.
 
-<img width="250" src="{{site.baseurl}}/static/img/_posts/kording_canoe.jpg" data-action="zoom">
+<img width="750" src="/static/img/_posts/kording_canoe.jpg" data-action="zoom">
 
 Caption: Kording Lab during the 2019 Lab Retreat
 
