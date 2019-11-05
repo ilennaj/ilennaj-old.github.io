@@ -15,12 +15,10 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/IlennaJ"
     - icon: fa-linkedin
-      link: "#"
+      link: "https://www.linkedin.com/in/ilenna-jones-383b2150/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
