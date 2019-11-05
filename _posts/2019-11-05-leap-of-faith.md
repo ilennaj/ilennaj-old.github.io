@@ -1,7 +1,7 @@
 ---
 layout: post                          # (require) default post layout
 title: "A Leap of Faith: Switching to computation from a wet-lab background"                   # (require) a string title
-date: 2019-11-05 03:00:00 +0700       # (require) a post date
+date: 2019-11-05 15:00:00 +0700       # (require) a post date
 categories: [advice]                  # (custom) some categories, but makesure these categories already exists inside path of `category/`
 tags: [gradschool, advice]            # (custom) tags only for meta `property="article:tag"`
 
