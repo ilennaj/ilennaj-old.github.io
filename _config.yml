@@ -35,6 +35,8 @@ urls:
       url: /projects/
     - text: XML Feed
       url: /feed.xml
+    - text: Lab page
+      url:  http://kordinglab.com/people/ilenna_jones/index.html
 
 url: "https://ilennaj.github.io"
 baseurl: ""
