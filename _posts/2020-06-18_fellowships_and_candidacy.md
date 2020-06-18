@@ -7,13 +7,13 @@ tags: [gradschool, advice]            # (custom) tags only for meta `property="a
 
 ---
 
-14 min read
+*14 min read*
 
 June 15th 2020 I learned that I was awarded the [2020 Howard Hughes Medical Institute (HHMI) Gilliam Graduate Fellowship](https://www.hhmi.org/sites/default/files/g20_announcement_091219.pdf) grant. News of the award both revived and resolved some complex emotions. I take the time now to reflect on the year leading up to applying to this fellowship for the *second* time, and figure out how in the world I might have deserved this award (since, apparently, I do deserve it). At the end of this blog post, I have some takeaways for the graduate student beginning to think about fellowship applications and starting to face one of the largest challenges of graduate school: The Candidacy (prelim) Exam. I hope students and advisors alike will find this post useful when thinking about what the process might be like for them or their students.
 
 ![exrop_2014](https://raw.githubusercontent.com/ilennaj/ilennaj.github.io/master/static/img/_posts/exrop_2014.jpg)
 
-(HHMI EXROP Class of 2014. I’m in the bottom right with the green bracelet.)
+HHMI EXROP Class of 2014. I’m in the bottom right with the green bracelet.
 
 ### Beginning to Reflect
 
