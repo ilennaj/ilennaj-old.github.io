@@ -39,16 +39,16 @@ After I submitted my Gilliam submission in January, I had to immediately forget 
 That’s when I started doing what kept me going all the way up to the exam date. I started a daily journal, called “processing”, where I kept track of my “processes” throughout the day. I narrated my actions. Here’s an example beginning entry in March:
 
 
-  20190311-processing
-  
-  Had meeting with Konrad about my CAJAL application and the significance document. I liked the meeting.
-  
-  The larger structure of the significance should be:
-  
-  Identification of questions
-    The Existence Problem
-    The Inverse Problem
-    The Learning Problem
+    20190311-processing
 
-  Etc.
+    Had meeting with Konrad about my CAJAL application and the significance document. I liked the meeting.
+
+    The larger structure of the significance should be:
+
+    Identification of questions
+      The Existence Problem
+      The Inverse Problem
+      The Learning Problem
+
+    Etc.
 
