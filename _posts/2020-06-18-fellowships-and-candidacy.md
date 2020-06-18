@@ -1,6 +1,6 @@
 ---
 layout: post                          # (require) default post layout
-title: "Fellowships and Candidacy"                   # (require) a string title
+title: "Fellowships and Candidacy: Growing from the Challenge"                   # (require) a string title
 date: 2020-06-18 15:00:00 +0700       # (require) a post date
 categories: [advice]                  # (custom) some categories, but makesure these categories already exists inside path of `category/`
 tags: [gradschool, advice]            # (custom) tags only for meta `property="article:tag"`
