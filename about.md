@@ -11,6 +11,8 @@ permalink: /about/
 
 I am a Neuroscience PhD Candidate at the University of Pennsylvania. I work in the [Kording Lab](http://kordinglab.com/), studying single neuron computation.
 
-[CV](/static/docs/CV_web_Aug2020.pdf)
+[CV](/static/docs/CV_web_Feb2022.pdf)
 
-email: ilenna.jones[at]gmail.com
+[Google Scholar](https://scholar.google.com/citations?user=R3yolm0AAAAJ&hl=en)
+
+email: first name dot last name at gmail dot com
